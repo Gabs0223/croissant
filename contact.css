@@ -1,0 +1,24 @@
+body {
+  background-color: yellowgreen;
+}
+h1,
+h2 {
+  color: #e9f7ef;
+}
+h1 {
+  font-size: 80px;
+}
+h2 {
+  font-size: 35px;
+}
+a {
+  color: yellowgreen;
+  text-decoration: none;
+  background: #e9f7ef;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+a:hover {
+  color: #4f6e0f;
+  box-shadow: 3px 3px 20px 4px #4f6e0f;
+}

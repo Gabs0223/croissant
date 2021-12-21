@@ -1,0 +1,18 @@
+body {
+  background-color: #ffc107;
+}
+h1 {
+  color: #fffde7;
+  font-size: 80px;
+}
+a {
+  color: #ffc107;
+  text-decoration: none;
+  background: #fffde7;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+a:hover {
+  color: #d84315;
+  box-shadow: 3px 3px 20px 4px #d84315;
+}

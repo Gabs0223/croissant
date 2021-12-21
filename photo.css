@@ -1,0 +1,21 @@
+body {
+  background-color: cornflowerblue;
+}
+h1 {
+  color: aliceblue;
+  font-size: 80px;
+}
+a {
+  color: cornflowerblue;
+  text-decoration: none;
+  background: aliceblue;
+  padding: 10px 15px;
+  border-radius: 7px;
+}
+a:hover {
+  color: #4f76bd;
+  box-shadow: 3px 3px 20px 4px #4f76bd;
+}
+img {
+  border-radius: 20px;
+}
